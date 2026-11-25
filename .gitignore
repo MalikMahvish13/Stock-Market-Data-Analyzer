@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+*.log
+*.tmp
+.DS_Store
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+build/
+dist/
+# Large generated data and archives are not needed for this small project.
+*.parquet
+*.feather
+*.zip
+# Generated files can be committed selectively when you want portfolio evidence.
+outputs/*
+!outputs/.gitkeep
