@@ -152,7 +152,21 @@ The sample CSV contains 20 synthetic rows. Its close moves from 101.00 to 115.00
 
 ## Screenshots
 
-Screenshots of the application dashboard, stock analysis, backtesting results, and API documentation will be added here.
+![Dashboard](images/dashboard.png)
+
+*Analysis dashboard showing the clearly labeled synthetic sample, summary metrics and historical price chart.*
+
+![Stock Analysis](images/stock_analysis.png)
+
+*Historical closing prices and SMA 20/50 charts from the synthetic demonstration CSV.*
+
+![Backtesting](images/backtesting.png)
+
+*SMA crossover strategy return compared with the buy-and-hold benchmark on sample data.*
+
+![API Documentation](images/api_documentation.png)
+
+*Live FastAPI Swagger UI with the application's available endpoints.*
 
 ## Limitations
 
