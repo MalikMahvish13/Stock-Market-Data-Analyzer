@@ -152,7 +152,7 @@ The sample CSV contains 20 synthetic rows. Its close moves from 101.00 to 115.00
 
 ## Screenshots
 
-After running the application, save images under `images/` and add them here. Suggested captures: dashboard overview, SMA chart, returns/volatility view, backtest comparison, API Swagger page, and CLI-generated report. Use the sample dataset or clearly label the actual historical source and date range.
+Screenshots of the application dashboard, stock analysis, backtesting results, and API documentation will be added here.
 
 ## Limitations
 
